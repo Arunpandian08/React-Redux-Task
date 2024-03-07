@@ -1,6 +1,6 @@
 # 💫IN THIS REPOSITORY
 ## 💢CREATED CART PAGE ➡ USING REACT REDUX
-### You can see output in 📌[netlify.com]()
+### You can see output in 📌[netlify.com](https://react-redux-task-by-arun.netlify.app/)
 
 + install node module
 ```
